@@ -1,6 +1,8 @@
 # DSCourse-365DS-udemy
 A repo for all the the stuff I'm doing and learning in the online course *The Data Science Course 2021: Complete Data Science Bootcamp* provided by 365 Data Science on Udemy.com [here](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/ "here").
 
+The course goes through various topics like maths, statistics, python, tableau, advanced statistics, ML etc. The course teaches the theory part of each model and topic further then moves on to the practical application of it. The course also goes through various libraries of python common in the field Data Science, their implementation and usage on practical real world scenarios.  
+
 ### The course has the following **CILO** (Course Intended Learning Outcomes): 
 
 1. The course provides the entire toolbox you need to become a data scientist
